@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+# Register number:25018938
+# Name: Ezhumalai.K
 
 **AIM:**
 
@@ -25,6 +27,22 @@
 **CIRCUIT DIAGRAM:**
 
 
+![WhatsApp Image 2025-12-25 at 8 05 05 PM](https://github.com/user-attachments/assets/ccd36ec5-f6fc-4be3-bb0d-95bd8e1a05fa)
+
+
+**TABUULAR COLUMN:**
+
+
+<img width="428" height="306" alt="image" src="https://github.com/user-attachments/assets/ef04c340-aee1-4e3f-ae0a-674779c8d0cf" />
+
+
+
+**CALCULATION:**
+
+
+<img width="354" height="420" alt="image" src="https://github.com/user-attachments/assets/ad147ee1-7872-4094-8e37-57d3fc65d049" />
+
+<img width="706" height="1280" alt="image" src="https://github.com/user-attachments/assets/16f2a707-bfbe-4c8c-9669-6ccaa7dfeac5" />
 
 
 
